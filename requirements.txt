@@ -1,0 +1,4 @@
+pymongo
+python-dotenv
+gremlinpython==3.4.13
+loguru
